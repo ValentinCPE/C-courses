@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1486636824 source:/home/valentin/Documents/IUT/C++/TP1C++/main.cpp
+	<iostream>
+	"exercices.h"
+
+1486636806 /home/valentin/Documents/IUT/C++/TP1C++/exercices.h
+
+1486634707 source:/home/valentin/Documents/IUT/C++/TP1C++/tp1_ex1.cpp
+	<iostream>
+
+1486635623 source:/home/valentin/Documents/IUT/C++/TP1C++/tp1_ex8.cpp
+	<iostream>
+
+1486636201 source:/home/valentin/Documents/IUT/C++/TP1C++/tp1_ex9.cpp
+	<iostream>
+
+1486636630 source:/home/valentin/Documents/IUT/C++/TP1C++/tp1_ex12.cpp
+	<iostream>
+
