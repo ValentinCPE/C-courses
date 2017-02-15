@@ -37,6 +37,11 @@
 		<Unit filename="tp1_ex1.cpp" />
 		<Unit filename="tp1_ex12.cpp" />
 		<Unit filename="tp1_ex13.cpp" />
+		<Unit filename="tp1_ex2" />
+		<Unit filename="tp1_ex2.cpp" />
+		<Unit filename="tp1_ex3.cpp" />
+		<Unit filename="tp1_ex4.cpp" />
+		<Unit filename="tp1_ex5.cpp" />
 		<Unit filename="tp1_ex8.cpp" />
 		<Unit filename="tp1_ex9.cpp" />
 		<Extensions>

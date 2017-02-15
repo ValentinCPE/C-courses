@@ -15,6 +15,18 @@ int main()
             case 1:
                 exercice1();
                 break;
+            case 2:
+                exercice2();
+                break;
+            case 3:
+                exercice3();
+                break;
+            case 4:
+                exercice4();
+                break;
+            case 5:
+                exercice5();
+                break;
             case 8:
                 exercice8();
                 break;
